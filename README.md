@@ -88,7 +88,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### **3. Learnplatform– Comprehensive Analysis of Digital Learning During Covid-19.**
 <div align="center">
-    <img alt="CV" width="50px" src="https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000373605&author=UNESCO+Office+in+New+Delhi&title=Safe+online+learning+in+times+of+COVID-19&year=2020&publisher=UNESCO+New+Delhi&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1"/>
+    <img alt="CV" width="100px" src="https://www.air.org/sites/default/files/boy-and-teacher-distance-learning-covid-1217156498-grid.jpg"/>
 </div>
 
 - Performed data wrangling and preprocessing, improving data quality by 25% for analyzing digital learning trends during Covid.
