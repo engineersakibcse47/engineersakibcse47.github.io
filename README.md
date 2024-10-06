@@ -91,7 +91,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### In Depth Analysis and Prediction Of US Traffic Accidents Data.
 <div align="center">
-    <img alt="CV" width="100px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
+    <img alt="CV" width="150px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
 </div>
 - Executed comprehensive data preprocessing on a dataset of 7.7 million U.S. traffic accidents (2016-2023), resulting in a 25% improvement in data quality.
 - Applied machine learning models to predict accident severity with over 90% accuracy, enhancing insights into accident risk factors.
@@ -99,7 +99,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
 <div align="center">
-    <img alt="CV" width="200px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
+    <img alt="CV" width="100px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
 </div>
 - Developed advanced time series models, achieving an R2 score of 0.97 in predicting energy consumption, enabling informed decision-making in energy management. 
 - Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
@@ -107,7 +107,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
 <div align="center">
-    <img alt="CV" width="100px" src="https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/899754/fpls-13-899754-HTML/image_m/fpls-13-899754-g001.jpg"/>
+    <img alt="CV" width="150px" src="https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/899754/fpls-13-899754-HTML/image_m/fpls-13-899754-g001.jpg"/>
 </div>
 - Engineered a CNN model with 99% accuracy, aiding early detection of potato leaf diseases, contributing to sustainable agricultural practices. 
 - Implemented data augmentation and model versioning, leading to a 20% reduction in misdiagnoses and a 10% increase in early detection rates. 
