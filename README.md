@@ -65,7 +65,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <h4><b>**Area of Data Analysis and Machine Learning**</b></h4>
+    <h4><b><u>**Area of Data Analysis and Machine Learning**</u></b></h4>
 </div>
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
@@ -105,7 +105,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: AutoML, Pandas, Matplotlib, Seaborn, Plotly, Geopanda.
 
 <div align="center">
-    <h4><b>**Area of Time Series Analysis**</b></h4>
+    <h4><b><u>**Area of Time Series Analysis**</u></b></h4>
 </div>
 
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
@@ -136,7 +136,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
 
 <div align="center">
-    <h4><b>**Area of Large Language Model**</b></h4>
+    <h4><b><u>**Area of Large Language Model**</u></b></h4>
 </div>
 
 #### Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.	                                         2024
