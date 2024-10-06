@@ -70,7 +70,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
 <div align="center">
-    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+    <img alt="CV" width="100px" src="https://miro.medium.com/v2/resize:fit:1400/0*rf3vYHB2_wonfkBN"/>
 </div>
 
 - Analyzed avocado consumption trends from 2015-2021, identifying key markets like Los Angeles and New York that represented over **30% of total sales** nationwide.
