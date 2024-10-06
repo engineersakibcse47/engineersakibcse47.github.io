@@ -126,14 +126,14 @@ This research focuses on a voice-interactive AI system with object detection cap
     <h4><b><u>**Area of Deep Learning**</u></b></h4>
 </div>
 
-#### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
+#### End to End Potato Leaf Disease Multi-Level Classification using CNN with Deployment.
 <div align="center">
     <img alt="CV" width="130px" src="https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/899754/fpls-13-899754-HTML/image_m/fpls-13-899754-g001.jpg"/>
 </div>
 
 - Engineered a CNN model with 99% accuracy, aiding early detection of potato leaf diseases, contributing to sustainable agricultural practices. 
 - Implemented data augmentation and model versioning, leading to a 20% reduction in misdiagnoses and a 10% increase in early detection rates. 
-- **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
+- **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Google Cloud(GCP), Flask.
 
 <div align="center">
     <h4><b><u>**Area of Large Language Model**</u></b></h4>
