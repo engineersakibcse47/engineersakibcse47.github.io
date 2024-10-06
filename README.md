@@ -65,7 +65,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/277c3bcd-73d3-41de-813d-671634d9190f"/>
+    <img alt="CV" width="250px" src="https://github.com/user-attachments/assets/277c3bcd-73d3-41de-813d-671634d9190f"/>
 </div>
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
@@ -96,11 +96,16 @@ This research focuses on a voice-interactive AI system with object detection cap
 <div align="center">
     <img alt="CV" width="170px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
 </div>
+
 - Executed comprehensive data preprocessing on a dataset of 7.7 million U.S. traffic accidents (2016-2023), resulting in a 25% improvement in data quality.
 - Applied machine learning models to predict accident severity with over 90% accuracy, enhancing insights into accident risk factors.
 - **Tech-Stack**: AutoML, Pandas, Matplotlib, Seaborn, Plotly, Geopanda.
 
-### Time Series Analysis
+<br/>
+
+<div align="center">
+    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/9d7d5173-fc4e-495e-9b18-c1028a9085f2"/>
+</div>
 
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
 <div align="center">
