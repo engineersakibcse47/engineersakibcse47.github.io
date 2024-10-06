@@ -90,7 +90,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### In Depth Analysis and Prediction Of US Traffic Accidents Data.
 <div align="center">
-    <img alt="CV" width="150px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
+    <img alt="CV" width="170px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
 </div>
 - Executed comprehensive data preprocessing on a dataset of 7.7 million U.S. traffic accidents (2016-2023), resulting in a 25% improvement in data quality.
 - Applied machine learning models to predict accident severity with over 90% accuracy, enhancing insights into accident risk factors.
