@@ -69,8 +69,8 @@ This research focuses on a voice-interactive AI system with object detection cap
 <div align="center">
     <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
 </div>
-●	Analyzed avocado consumption trends from 2015-2021, identifying key markets like Los Angeles and New York that represented over **30% of total sales** nationwide.
-●	Discovered growth trends in annual avocado sales, with units sold increasing from 5B to 6B during the 2019-2020 transition, despite a **13% decrease** in prices.
-●	Tech-Stack: Databricks-Notebook, SQL, Pandas, Matplotlib.
+- Analyzed avocado consumption trends from 2015-2021, identifying key markets like Los Angeles and New York that represented over **30% of total sales** nationwide.
+- Discovered growth trends in annual avocado sales, with units sold increasing from 5B to 6B during the 2019-2020 transition, despite a **13% decrease** in prices.
+- **Tech-Stack**: Databricks-Notebook, SQL, Pandas, Matplotlib.
 
 
