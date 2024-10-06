@@ -15,8 +15,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 
 <br />
 
-#
-
 ### Education							       		
 - M.S. Data Science|Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
 - B.S. Computer Science and Engineering|Daffodil International University (_June 2021_)
