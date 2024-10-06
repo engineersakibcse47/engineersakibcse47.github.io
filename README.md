@@ -108,7 +108,7 @@ This research focuses on a voice-interactive AI system with object detection cap
     <h4><b><u>**Area of Time Series Analysis**</u></b></h4>
 </div>
 
-#### Hourly Energy Consumption Time Series Analysis and Prediction.
+#### **5. Hourly Energy Consumption Time Series Analysis and Prediction.**
 <div align="center">
     <img alt="CV" width="120px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
 </div>
@@ -117,7 +117,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
 - **Tech-Stack**: Pandas, Numpy, Matplotlib, K-Fold, Facebook Prophet, LSTM, RNN. 
 
-#### Teach Companies: Stock Market Time Series Analysis and Prediction.
+#### **6. Teach Companies: Stock Market Time Series Analysis and Prediction.**
 - Coded and trained neural network models for stock market prediction, achieving an R2 score of 0.94 and reducing RMSE to 0.023 in predicting the closing prices of stocks like Apple, Google, Microsoft, and Amazon.
 - Applied EDA, data preprocessing techniques and time series analysis, including moving averages and correlation matrices, improving forecast accuracy by 15%.
 - **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
@@ -126,7 +126,7 @@ This research focuses on a voice-interactive AI system with object detection cap
     <h4><b><u>**Area of Deep Learning**</u></b></h4>
 </div>
 
-#### End to End Potato Leaf Disease Multi-Level Classification using CNN with Deployment.
+#### **7. End to End Potato Leaf Disease Multi-Level Classification using CNN with Deployment.**
 <div align="center">
     <img alt="CV" width="130px" src="https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/899754/fpls-13-899754-HTML/image_m/fpls-13-899754-g001.jpg"/>
 </div>
@@ -139,7 +139,7 @@ This research focuses on a voice-interactive AI system with object detection cap
     <h4><b><u>**Area of Large Language Model**</u></b></h4>
 </div>
 
-#### Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.	                                         2024
+#### **8. Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.**
 - Formulated an intelligent Q&A system leveraging open-source LLMs, reducing response time to student inquiries by 80% and improving support efficiency for course learners.
 - Architected a scalable web application integrating natural language processing capabilities, resulting in around 40% decrease in human staff workload for handling routine student questions.
 - **Tech-Stack**: Langchain, Google Palm, Huggingface instructor embedding, Vector DB (FAISS), Streamlit.
