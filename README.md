@@ -65,4 +65,12 @@ Highly motivated computer science graduate, currently pursuing a [master's in Da
 This research focuses on a voice-interactive AI system with object detection capabilities. Users can interact with the system through voice commands and display an object using a camera. The system captures an image, extracts features, and matches them with a database to identify the object's category. Once a match is found, the system responds with the category name through voice. It can also provide basic information about the object when prompted. The system leverages natural language processing to interpret the structure and properties of objects across various networks, offering a general-purpose solution for object identification.
 
 ## Personal Projects
+#### Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+●	Analyzed avocado consumption trends from 2015-2021, identifying key markets like Los Angeles and New York that represented over **30% of total sales** nationwide.
+●	Discovered growth trends in annual avocado sales, with units sold increasing from 5B to 6B during the 2019-2020 transition, despite a **13% decrease** in prices.
+●	Tech-Stack: Databricks-Notebook, SQL, Pandas, Matplotlib.
+
 
