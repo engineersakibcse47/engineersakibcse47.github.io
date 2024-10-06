@@ -1,5 +1,5 @@
 <div align="left">
-    **Sakib Hosen Himel**
+    <b>Sakib Hosen Himel</b>
 </div>
 **Postgraduate Student | Data Science | ML | Data Analysis | NLP**
 
