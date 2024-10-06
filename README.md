@@ -24,7 +24,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 <img align="left" alt="SQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br />
-<br />
 
 ## Tools & Platforms
 <img align="left" alt="Git" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -38,7 +37,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 <img align="left" alt="Streamlit" width="30px" style="padding-right:15px;" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<br />
 <br />
 
 ## Work Experience
