@@ -120,7 +120,11 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Applied EDA, data preprocessing techniques and time series analysis, including moving averages and correlation matrices, improving forecast accuracy by 15%.
 - **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
 
-### Deep Learning
+<br/>
+
+<div align="center">
+    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/4f63be9b-f828-4969-8eb7-1603436d564b"/>
+</div>
 
 #### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
 <div align="center">
@@ -131,11 +135,11 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
 
 ## Extracurricular Activities
-- **Vice Precident-Finance** - SSV WH Franz-Mehring-Platz.
-- **Organizer** - English Olympiad Bangladesh.
-- **Organizer** - Virtual Int’l Social Business Summer Program.
-- **Organizer** - 18th Asian University President’s Forum.
-- **Organizer** - Int’l Social Business Summer Program.
+- **Vice Precident(Finance)** - SSV WH Franz-Mehring-Platz. _(Present)_
+- **Organizer** - English Olympiad Bangladesh. _(2021)_
+- **Organizer** - Virtual Int’l Social Business Summer Program. _(2020)_
+- **Organizer** - 18th Asian University President’s Forum. _(2019)_
+- **Organizer** - Int’l Social Business Summer Program. _(2019)_
 
 ## Additional
 **Languages: Bangla (Native), Fluent in English; Beginner Level (German).**
