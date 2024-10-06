@@ -65,7 +65,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <b><h3>**Area of Data Analysis and Machine Learning**</h3></b>
+    <h4><b>Area of Data Analysis and Machine Learning</b></h4>
 </div>
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
