@@ -8,9 +8,18 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 - **Deep Learning**: Proficient in neural networks, CNNs, RNNs, NLP, Transfer learning and Text generation(GEN-AI).
 - **Statistics & Probability**: Distributions, Descriptive statistics, Probability theory, Hypothesis testing (Chi-square, T-test, ANOVA).
 
+### Programming Languages
+<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<br />
+
+#
+
 ### Education							       		
-- M.S., Data Science  |  Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
-- B.S., Computer Science and Engineering  |  Daffodil International University(_June 2021_)
+- M.S. Data Science|Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
+- B.S. Computer Science and Engineering|Daffodil International University (_June 2021_)
 
 ### Work Experience
 **Student Prefect @ Daffodil International University, Bangladesh**  
