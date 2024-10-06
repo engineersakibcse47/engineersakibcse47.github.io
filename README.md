@@ -113,11 +113,11 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
 
 ## Extracurricular Activities
-**Vice Precident-Finance** - SSV WH Franz-Mehring-Platz.
-**Organizer** - English Olympiad Bangladesh.
-**Organizer** - Virtual Int’l Social Business Summer Program.
-**Organizer** - 18th Asian University President’s Forum.
-**Organizer** - Int’l Social Business Summer Program.
+- **Vice Precident-Finance** - SSV WH Franz-Mehring-Platz.
+- **Organizer** - English Olympiad Bangladesh.
+- **Organizer** - Virtual Int’l Social Business Summer Program.
+- **Organizer** - 18th Asian University President’s Forum.
+- **Organizer** - Int’l Social Business Summer Program.
 
 ## Additional
 **Languages: Bangla (Native), Fluent in English; Beginner Level (German).**
