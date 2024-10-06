@@ -65,7 +65,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <img alt="CV" width="300px" src="https://emeritus.org/in/wp-content/uploads/sites/3/2024/05/Exploratory-Data-Analysis-1.png"/>
+    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/277c3bcd-73d3-41de-813d-671634d9190f"/>
 </div>
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
