@@ -3,8 +3,15 @@
 Highly motivated computer science graduate, currently pursuing a [Master's Degree in Data Science](https://www.bht-berlin.de/en/m-ds). Possessing a strong foundation in computer science principles and methodologies, with a keen interest in leveraging data-driven insights to solve complex problems and contribute to business growth. Demonstrated ability to apply theoretical knowledge to practical scenarios through coursework and projects. Equipped with skills in **programming, data analysis, machine learning, deep learning and natural language processing** techniques. Seeking opportunities to contribute to innovative projects and advance in the field of data science.
 
 ### Education							       		
-- M.S. Data_Science | Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
-- B.S. Computer_Science_&_Engineering | Daffodil International University (_June 2021_)
+**Berliner Hochschule Für Technik (BHT), Berlin, Germany**  
+**MSc in Data Science** (_Present_)  
+- German Grade: 1.4/5.00; Completed 42/120 ECTS.  
+- Relevant Coursework: Machine Learning, Deep Learning, NLP, Text Mining, Big Data, BI & Visualization.
+
+**Daffodil International University, Dhaka, Bangladesh**  
+**BSc in Computer Science and Engineering** (_May 2017 – Jun 2021_)  
+- Cumulative GPA: 3.81/4.00
+
 
 ### Technical Skills
 - **Data Science & Machine Learning**: Data pipeline: wrangling, feature engineering, visualizing, modeling, evaluate, and validation. Expertise in Classification, Regression, and Clustering techniques.
