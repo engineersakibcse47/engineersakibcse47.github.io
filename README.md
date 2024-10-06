@@ -135,6 +135,15 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Implemented data augmentation and model versioning, leading to a 20% reduction in misdiagnoses and a 10% increase in early detection rates. 
 - **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
 
+<div align="center">
+    <h4><b>**Area of Large Language Model**</b></h4>
+</div>
+
+#### Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.	                                         2024
+- Formulated an intelligent Q&A system leveraging open-source LLMs, reducing response time to student inquiries by 80% and improving support efficiency for course learners.
+- Architected a scalable web application integrating natural language processing capabilities, resulting in around 40% decrease in human staff workload for handling routine student questions.
+- **Tech-Stack**: Langchain, Google Palm, Huggingface instructor embedding, Vector DB (FAISS), Streamlit.
+
 ## Extracurricular Activities
 - **Vice Precident(Finance)** - SSV WH Franz-Mehring-Platz. _(Present)_
 - **Organizer** - English Olympiad Bangladesh. _(2021)_
