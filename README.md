@@ -57,7 +57,7 @@ Highly motivated computer science graduate, currently pursuing a [master's in Da
 - [Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
 
 ## Publication
-### Perception of Multimodal Objects in NLP Through Computer Vision    [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
+#### Perception of Multimodal Objects in NLP Through Computer Vision    [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
 <div align="center">
     <img alt="CV" width="100px" src="https://github.com/user-attachments/assets/e55c26f5-94ba-4593-be38-6e9363e44418"/>
 </div>
@@ -65,11 +65,11 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <img alt="CV" width="350px" src="https://media.geeksforgeeks.org/wp-content/uploads/20240507132146/What-is-Exploratory-Data-Analysis.webp"/>
+    <img alt="CV" width="300px" src="https://emeritus.org/in/wp-content/uploads/sites/3/2024/05/Exploratory-Data-Analysis-1.png"/>
 </div>
+<br/>
 
-
-### 1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.
+#### 1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.
 <div align="center">
     <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
 </div>
@@ -77,7 +77,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Discovered growth trends in annual avocado sales, with units sold increasing from 5B to 6B during the 2019-2020 transition, despite a **13% decrease** in prices.
 - **Tech-Stack**: Databricks-Notebook, SQL, Pandas, Matplotlib.
 
-### 2. Predicting Loan Approvals- Data Analysis, Model Training and Deployment.
+#### 2. Predicting Loan Approvals- Data Analysis, Model Training and Deployment.
 <div align="center">
     <img alt="CV" width="100px" src="https://thumbs.dreamstime.com/z/loan-approval-vector-icon-concept-bank-manager-client-signing-financial-contract-insurance-paying-money-percentage-244336750.jpg"/>
 </div>
@@ -85,7 +85,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Optimized multiple ML models, achieving a 99% accuracy in predicting loan repayment through hyperparameter tuning and oversampling.
 - **Tech-Stack**: Pandas, Numpy, Matplotlib, Seaborn, SMOTE, Random Forest, XGBoost, ROC Curve.
 
-### 3. Learnplatform– Comprehensive Analysis of Digital Learning During Covid-19.
+#### 3. Learnplatform– Comprehensive Analysis of Digital Learning During Covid-19.
 <div align="center">
     <img alt="CV" width="50px" src="https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000373605&author=UNESCO+Office+in+New+Delhi&title=Safe+online+learning+in+times+of+COVID-19&year=2020&publisher=UNESCO+New+Delhi&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1"/>
 </div>
@@ -93,7 +93,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Uncovered key insights on educational product usage across demographics, resulting in 15% improved access to digital learning for underserved communities.
 - **Tech-Stack**: Numpy, Pandas, Matplotlib, altair, Plotly.
 
-### 4. In Depth Analysis and Prediction Of US Traffic Accidents Data.
+#### 4. In Depth Analysis and Prediction Of US Traffic Accidents Data.
 <div align="center">
     <img alt="CV" width="170px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
 </div>
