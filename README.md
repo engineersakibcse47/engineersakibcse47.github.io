@@ -57,5 +57,7 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 ## Publication
 #### Perception of Multimodal Objects in NLP Through Computer Vision [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
 This research focuses on a voice-interactive AI system with object detection capabilities. Users can interact with the system through voice commands and display an object using a camera. The system captures an image, extracts features, and matches them with a database to identify the object's category. Once a match is found, the system responds with the category name through voice. It can also provide basic information about the object when prompted. The system leverages natural language processing to interpret the structure and properties of objects across various networks, offering a general-purpose solution for object identification.
-![Computer Vision](https://github.com/user-attachments/assets/e55c26f5-94ba-4593-be38-6e9363e44418)
+https://github.com/user-attachments/assets/e55c26f5-94ba-4593-be38-6e9363e44418
+
+<img align="center" alt="CV" width="30px" style="padding-right:1px;" src="https://github.com/user-attachments/assets/e55c26f5-94ba-4593-be38-6e9363e44418"/>
 
