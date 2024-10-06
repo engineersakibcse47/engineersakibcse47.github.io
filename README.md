@@ -37,7 +37,7 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 <img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br />
-<br />
+
 
 ## Work Experience
 **Student Prefect @ Daffodil International University, Bangladesh**  
