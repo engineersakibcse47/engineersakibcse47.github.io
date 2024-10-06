@@ -83,7 +83,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### Learnplatform– Comprehensive Analysis of Digital Learning During Covid-19.
 <div align="center">
-    <img alt="CV" width="60px" src="https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000373605&author=UNESCO+Office+in+New+Delhi&title=Safe+online+learning+in+times+of+COVID-19&year=2020&publisher=UNESCO+New+Delhi&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1"/>
+    <img alt="CV" width="50px" src="https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000373605&author=UNESCO+Office+in+New+Delhi&title=Safe+online+learning+in+times+of+COVID-19&year=2020&publisher=UNESCO+New+Delhi&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1"/>
 </div>
 - Performed data wrangling and preprocessing, improving data quality by 25% for analyzing digital learning trends during Covid.
 - Uncovered key insights on educational product usage across demographics, resulting in 15% improved access to digital learning for underserved communities.
@@ -99,7 +99,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
 <div align="center">
-    <img alt="CV" width="100px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
+    <img alt="CV" width="200px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
 </div>
 - Developed advanced time series models, achieving an R2 score of 0.97 in predicting energy consumption, enabling informed decision-making in energy management. 
 - Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
