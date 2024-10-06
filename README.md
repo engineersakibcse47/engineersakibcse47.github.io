@@ -1,17 +1,22 @@
-# Postgraduate Student | Data Science | Machine Learning | Data Analysis | NLP
+## Postgraduate Student | Data Science | Machine Learning | Data Analysis | NLP
 
-#### Technical Skills: Python, SQL.
+Highly motivated computer science graduate, currently pursuing a [Master's Degree in Data Science](https://www.bht-berlin.de/en/m-ds). Possessing a strong foundation in computer science principles and methodologies, with a keen interest in leveraging data-driven insights to solve complex problems and contribute to business growth. Demonstrated ability to apply theoretical knowledge to practical scenarios through coursework and projects. Equipped with skills in **programming, data analysis, machine learning, deep learning and natural language processing** techniques. Seeking opportunities to contribute to innovative projects and advance in the field of data science.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+#### Technical Skills
+- **Data Science & Machine Learning**: Data pipeline: wrangling, feature engineering, visualizing, modeling, evaluate, and validation. Expertise in Classification, Regression, and Clustering techniques.
+- **Deep Learning**: Proficient in neural networks, CNNs, RNNs, NLP, Transfer learning and Text generation(GEN-AI).
+- **Statistics & Probability**: Distributions, Descriptive statistics, Probability theory, Hypothesis testing (Chi-square, T-test, ANOVA).
+
+## Education							       		
+- M.S., Data Science | Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
+- B.S., Computer Science and Engineering | Daffodil International University(_June 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Student Prefect @ Daffodil International University, Bangladesh**  
+*Artificial Intelligence Coursework* (_May 2020 – Aug 2020_)  
+*Database Management System Coursework* (_Jan 2019 – Apr 2019_)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Coordinated and facilitated lab activities, tests, and demonstrations for over 60 students per semester, leading to a 25% improvement in student test scores.
+- Collaborated with faculty and peers to enhance the smooth execution of lab sessions, saving 1 hour per week on average.
+
