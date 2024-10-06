@@ -49,3 +49,13 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 - Coordinated and facilitated lab activities, tests, and demonstrations for over 60 students per semester, leading to a 25% improvement in student test scores.
 - Collaborated with faculty and peers to enhance the smooth execution of lab sessions, saving 1 hour per week on average.
 
+### Training Certification
+
+[Google](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Data Analytics Professional Certification
+[IBM](https://www.coursera.org/account/accomplishments/certificate/XYAQPSWV5JFT) - Python for Data Science & AI Development
+[IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Databases and SQL for Data Science
+[Stanford University](https://www.coursera.org/account/accomplishments/specialization/certificate/VE7X2VLPGWJ9) - Machine Learning Specialization
+[Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
+
+
+
