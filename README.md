@@ -4,12 +4,12 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 
 ## Education							       		
 **Berliner Hochschule Für Technik (BHT), Berlin, Germany**  
-- **MSc in Data Science** (_Present_)  
+- _**MSc in Data Science**_ (_Present_)  
 - German Grade: 1.4/5.00; Completed 42/120 ECTS.  
 - Relevant Coursework: Machine Learning, Deep Learning, NLP, Text Mining, Big Data, BI & Visualization.
 
 **Daffodil International University, Dhaka, Bangladesh**  
-**BSc in Computer Science and Engineering** (_May 2017 – Jun 2021_)  
+- _**BSc in Computer Science and Engineering**_ (_May 2017 – Jun 2021_)  
 - Cumulative GPA: 3.81/4.00
 
 
