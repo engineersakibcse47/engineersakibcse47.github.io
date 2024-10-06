@@ -123,7 +123,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
 
 <div align="center">
-    <h4><b>**Area of Deep Learning**</b></h4>
+    <h4><b><u>**Area of Deep Learning**</u></b></h4>
 </div>
 
 #### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
