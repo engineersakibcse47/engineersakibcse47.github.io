@@ -79,7 +79,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### **2. Predicting Loan Approvals- Data Analysis, Model Training and Deployment.**
 <div align="center">
-    <img alt="CV" width="100px" src="https://thumbs.dreamstime.com/z/loan-approval-vector-icon-concept-bank-manager-client-signing-financial-contract-insurance-paying-money-percentage-244336750.jpg"/>
+    <img alt="CV" width="50px" src="https://thumbs.dreamstime.com/z/loan-approval-vector-icon-concept-bank-manager-client-signing-financial-contract-insurance-paying-money-percentage-244336750.jpg"/>
 </div>
 
 - Streamlined data cleaning and feature engineering, improving model accuracy for loan repayment prediction by 20%. 
