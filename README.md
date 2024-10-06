@@ -54,5 +54,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 - [Stanford University](https://www.coursera.org/account/accomplishments/specialization/certificate/VE7X2VLPGWJ9) - Machine Learning Specialization
 - [Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
 
-
+## Publication
+#### Perception of Multimodal Objects in NLP Through Computer Vision [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
 
