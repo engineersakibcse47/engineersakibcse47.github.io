@@ -2,6 +2,9 @@
 
 Highly motivated computer science graduate, currently pursuing a [Master's Degree in Data Science](https://www.bht-berlin.de/en/m-ds). Possessing a strong foundation in computer science principles and methodologies, with a keen interest in leveraging data-driven insights to solve complex problems and contribute to business growth. Demonstrated ability to apply theoretical knowledge to practical scenarios through coursework and projects. Equipped with skills in **programming, data analysis, machine learning, deep learning and natural language processing** techniques. Seeking opportunities to contribute to innovative projects and advance in the field of data science.
 
+### Education							       		
+- M.S. Data Science|Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
+- B.S. Computer Science and Engineering|Daffodil International University (_June 2021_)
 
 ### Technical Skills
 - **Data Science & Machine Learning**: Data pipeline: wrangling, feature engineering, visualizing, modeling, evaluate, and validation. Expertise in Classification, Regression, and Clustering techniques.
@@ -27,15 +30,9 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 <img align="left" alt="Looker Studio" width="30px" style="padding-right:15px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" />
 <img align="left" alt="Streamlit" width="30px" style="padding-right:15px;" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="MacOS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
 <br />
 <br />
-
-### Education							       		
-- M.S. Data Science|Berliner Hochschule Für Technik (BHT) (_Present_)	 			        		
-- B.S. Computer Science and Engineering|Daffodil International University (_June 2021_)
-
 
 ### Work Experience
 **Student Prefect @ Daffodil International University, Bangladesh**  
