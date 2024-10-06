@@ -64,6 +64,8 @@ Highly motivated computer science graduate, currently pursuing a [master's in Da
 This research focuses on a voice-interactive AI system with object detection capabilities. Users can interact with the system through voice commands and display an object using a camera. The system captures an image, extracts features, and matches them with a database to identify the object's category. Once a match is found, the system responds with the category name through voice. It can also provide basic information about the object when prompted. The system leverages natural language processing to interpret the structure and properties of objects across various networks, offering a general-purpose solution for object identification.
 
 ## Personal Projects
+
+### Exploratory Data Analysis & Machine Learning
 #### Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.
 <div align="center">
     <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
@@ -96,6 +98,8 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Applied machine learning models to predict accident severity with over 90% accuracy, enhancing insights into accident risk factors.
 - **Tech-Stack**: AutoML, Pandas, Matplotlib, Seaborn, Plotly, Geopanda.
 
+### Time Series Analysis
+
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
 <div align="center">
     <img alt="CV" width="120px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
@@ -103,6 +107,14 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Developed advanced time series models, achieving an R2 score of 0.97 in predicting energy consumption, enabling informed decision-making in energy management. 
 - Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
 - **Tech-Stack**: Pandas, Numpy, Matplotlib, K-Fold, Facebook Prophet, LSTM, RNN. 
+
+#### Teach Companies: Stock Market Time Series Analysis and Prediction.
+- Coded and trained neural network models for stock market prediction, achieving an R2 score of 0.94 and reducing RMSE to 0.023 in predicting the closing prices of stocks like Apple, Google, Microsoft, and Amazon.
+- Applied EDA, data preprocessing techniques and time series analysis, including moving averages and correlation matrices, improving forecast accuracy by 15%.
+- **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
+
+### Deep Learning
+</br>
 
 #### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
 <div align="center">
