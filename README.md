@@ -73,4 +73,43 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Discovered growth trends in annual avocado sales, with units sold increasing from 5B to 6B during the 2019-2020 transition, despite a **13% decrease** in prices.
 - **Tech-Stack**: Databricks-Notebook, SQL, Pandas, Matplotlib.
 
+#### Predicting Loan Approvals- Data Analysis, Model Training and Deployment.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+- Streamlined data cleaning and feature engineering, improving model accuracy for loan repayment prediction by 20%. 
+- Optimized multiple ML models, achieving a 99% accuracy in predicting loan repayment through hyperparameter tuning and oversampling.
+- **Tech-Stack**: Pandas, Numpy, Matplotlib, Seaborn, SMOTE, Random Forest, XGBoost, ROC Curve.
+
+#### Learnplatform– Comprehensive Analysis of Digital Learning During Covid-19.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+- Performed data wrangling and preprocessing, improving data quality by 25% for analyzing digital learning trends during Covid.
+- Uncovered key insights on educational product usage across demographics, resulting in 15% improved access to digital learning for underserved communities.
+- **Tech-Stack**: Numpy, Pandas, Matplotlib, altair, Plotly.
+
+#### In Depth Analysis and Prediction Of US Traffic Accidents Data.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+- Executed comprehensive data preprocessing on a dataset of 7.7 million U.S. traffic accidents (2016-2023), resulting in a 25% improvement in data quality.
+- Applied machine learning models to predict accident severity with over 90% accuracy, enhancing insights into accident risk factors.
+- **Tech-Stack**: AutoML, Pandas, Matplotlib, Seaborn, Plotly, Geopanda.
+
+#### Hourly Energy Consumption Time Series Analysis and Prediction.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+- Developed advanced time series models, achieving an R2 score of 0.97 in predicting energy consumption, enabling informed decision-making in energy management. 
+- Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
+- **Tech-Stack**: Pandas, Numpy, Matplotlib, K-Fold, Facebook Prophet, LSTM, RNN. 
+
+#### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
+<div align="center">
+    <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
+</div>
+- Engineered a CNN model with 99% accuracy, aiding early detection of potato leaf diseases, contributing to sustainable agricultural practices. 
+- Implemented data augmentation and model versioning, leading to a 20% reduction in misdiagnoses and a 10% increase in early detection rates. 
+- **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Deployment- Google Cloud(GCP), Flask.
 
