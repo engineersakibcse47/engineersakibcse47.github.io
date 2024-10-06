@@ -97,7 +97,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 #### **4. In Depth Analysis and Prediction Of US Traffic Accidents Data.**
 <div align="center">
-    <img alt="CV" width="170px" src="https://storage.googleapis.com/kaggle-datasets-images/199387/440241/412582fbce64eb8e7f25a8a029e4fee0/dataset-cover.jpg?t=2019-05-21-00-08-38"/>
+    <img alt="CV" width="100px" src="https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/_config/Themenseite-Buehnenbild.jpg?__blob=normal"/>
 </div>
 
 - Executed comprehensive data preprocessing on a dataset of 7.7 million U.S. traffic accidents (2016-2023), resulting in a 25% improvement in data quality.
