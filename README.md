@@ -4,7 +4,7 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 
 ## Education							       		
 **Berliner Hochschule Für Technik (BHT), Berlin, Germany**  
-**MSc in Data Science** (_Present_)  
+- **MSc in Data Science** (_Present_)  
 - German Grade: 1.4/5.00; Completed 42/120 ECTS.  
 - Relevant Coursework: Machine Learning, Deep Learning, NLP, Text Mining, Big Data, BI & Visualization.
 
