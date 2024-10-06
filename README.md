@@ -65,7 +65,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 ## Personal Projects
 <div align="center">
-    <h4><b>Area of Data Analysis and Machine Learning</b></h4>
+    <h4><b>**Area of Data Analysis and Machine Learning**</b></h4>
 </div>
 
 #### **1. Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.**
@@ -105,7 +105,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: AutoML, Pandas, Matplotlib, Seaborn, Plotly, Geopanda.
 
 <div align="center">
-    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/9d7d5173-fc4e-495e-9b18-c1028a9085f2"/>
+    <h4><b>**Area of Time Series Analysis**</b></h4>
 </div>
 
 #### Hourly Energy Consumption Time Series Analysis and Prediction.
@@ -123,7 +123,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
 
 <div align="center">
-    <img alt="CV" width="300px" src="https://github.com/user-attachments/assets/4f63be9b-f828-4969-8eb7-1603436d564b"/>
+    <h4><b>**Area of Deep Learning**</b></h4>
 </div>
 
 #### End to End Potato Leaf Disease Multi-Level Classification Using CNN.
