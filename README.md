@@ -69,6 +69,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 <div align="center">
     <img alt="CV" width="200px" src="https://media.geeksforgeeks.org/wp-content/uploads/20240507132146/What-is-Exploratory-Data-Analysis.webp"/>
 </div>
+
 #### Avocadocalypse- Analyzing U.S. Avocado Consumption Trends.
 <div align="center">
     <img alt="CV" width="100px" src="https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_777905_17138478494594645.jpg"/>
