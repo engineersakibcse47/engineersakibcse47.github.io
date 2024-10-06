@@ -51,11 +51,11 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 
 ### Training Certification
 
-[Google](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Data Analytics Professional Certification
-[IBM](https://www.coursera.org/account/accomplishments/certificate/XYAQPSWV5JFT) - Python for Data Science & AI Development
-[IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Databases and SQL for Data Science
-[Stanford University](https://www.coursera.org/account/accomplishments/specialization/certificate/VE7X2VLPGWJ9) - Machine Learning Specialization
-[Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
+- [Google](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Data Analytics Professional Certification
+- [IBM](https://www.coursera.org/account/accomplishments/certificate/XYAQPSWV5JFT) - Python for Data Science & AI Development
+- [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Databases and SQL for Data Science
+- [Stanford University](https://www.coursera.org/account/accomplishments/specialization/certificate/VE7X2VLPGWJ9) - Machine Learning Specialization
+- [Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
 
 
 
