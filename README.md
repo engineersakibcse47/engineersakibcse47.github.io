@@ -57,7 +57,7 @@ Highly motivated computer science graduate, currently pursuing a [master's in Da
 - [Meta](https://www.coursera.org/account/accomplishments/certificate/2MF86C0A0COV) - Version Control (Git)
 
 ## Publication
-#### Perception of Multimodal Objects in NLP Through Computer Vision    [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
+#### **Perception of Multimodal Objects in NLP Through Computer Vision**    [2022 | Article](https://doi.org/10.25081/rrst.2023.15.8022)
 <div align="center">
     <img alt="CV" width="100px" src="https://github.com/user-attachments/assets/e55c26f5-94ba-4593-be38-6e9363e44418"/>
 </div>
