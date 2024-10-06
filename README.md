@@ -12,7 +12,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 - _**BSc in Computer Science and Engineering**_ (_May 2017 – Jun 2021_)  
 - Cumulative GPA: 3.81/4.00
 
-
 ## Technical Skills
 - **Data Science & Machine Learning**: Data pipeline: wrangling, feature engineering, visualizing, modeling, evaluate, and validation. Expertise in Classification, Regression, and Clustering techniques.
 - **Deep Learning**: Proficient in neural networks, CNNs, RNNs, NLP, Transfer learning and Text generation(GEN-AI).
@@ -38,6 +37,7 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 <img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br />
+<br />
 
 ## Work Experience
 **Student Prefect @ Daffodil International University, Bangladesh**  
@@ -48,7 +48,6 @@ Highly motivated computer science graduate, currently pursuing a [Master's Degre
 - Collaborated with faculty and peers to enhance the smooth execution of lab sessions, saving 1 hour per week on average.
 
 ## Training Certification
-
 - [Google](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Data Analytics Professional Certification
 - [IBM](https://www.coursera.org/account/accomplishments/certificate/XYAQPSWV5JFT) - Python for Data Science & AI Development
 - [IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/U66ZRBSFK37B) - Databases and SQL for Data Science
