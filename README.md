@@ -133,16 +133,31 @@ This research focuses on a voice-interactive AI system with object detection cap
 
 - Engineered a CNN model with 99% accuracy, aiding early detection of potato leaf diseases, contributing to sustainable agricultural practices. 
 - Implemented data augmentation and model versioning, leading to a 20% reduction in misdiagnoses and a 10% increase in early detection rates. 
-- **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Google Cloud(GCP), Flask.
+- **Tech-Stack**: Tensorflow, Keras, TF-dataset, Numpy, CNN, Google Cloud(GCP), and Flask.
+
+#### **8. Developed a Deep learning Technique to Identify Fake Article.**
+- Designed a Bidirectional LSTM model with Word2Vec embeddings, achieving 97% accuracy in fake news detection.
+- Executed advanced data preprocessing, enhancing text classification accuracy by optimizing tokenization, lemmatization, and regularization techniques.
+- **Tech-Stack**: TensorFlow, Keras, Numpy, Pandas, Gensim, and Scikit-learn.
 
 <div align="center">
-    <h4><b><u>**Area of Large Language Model**</u></b></h4>
+    <h4><b><u>**Area of Large/Language Model**</u></b></h4>
 </div>
 
-#### **8. Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.**
+#### **9. Build A Question Answering Chatbot On Ed-Tech Data with Open Source LLM.**
 - Formulated an intelligent Q&A system leveraging open-source LLMs, reducing response time to student inquiries by 80% and improving support efficiency for course learners.
 - Architected a scalable web application integrating natural language processing capabilities, resulting in around 40% decrease in human staff workload for handling routine student questions.
 - **Tech-Stack**: Langchain, Google Palm, Huggingface instructor embedding, Vector DB (FAISS), Streamlit.
+
+#### **10. How to Fine-Tune BERT for NER Using HuggingFace.**
+- Optimized a BERT model for Named Entity Recognition (NER) in Bangla text, reaching an accuracy rate of 98%.
+- Enhanced precision to 96.48%, recall to 96.57%, and F1-score to 96.52% through systematic model tuning, over 10 training epochs.
+- **Tech-Stack**: PyTorch, HuggingFace, Transformers, BERT, Pandas, NumPy.
+  
+#### **11. Sentiment Analysis with DistilBERT in Huggingface transformers.**
+- Fine-tuned DistilBERT with PyTorch, achieving 91.95% accuracy on IMDb sentiment analysis.
+- Created custom PyTorch dataset, boosting preprocessing speed by 30% for efficient model deployment.
+- **Tech-Stack**: PyTorch, HuggingFace, Transformers, DistilBERT, Pandas, NumPy.
 
 ## Extracurricular Activities
 - **Vice Precident(Finance)** - SSV WH Franz-Mehring-Platz. _(Present)_
