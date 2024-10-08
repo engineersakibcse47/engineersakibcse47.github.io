@@ -160,7 +160,7 @@ This research focuses on a voice-interactive AI system with object detection cap
 - **Tech-Stack**: PyTorch, HuggingFace, Transformers, DistilBERT, Pandas, NumPy.
 
 ## Extracurricular Activities
-- **Vice Precident(Finance)** - SSV WH Franz-Mehring-Platz. _(Present)_
+- **Vice President(Finance)** - SSV WH Franz-Mehring-Platz. _(Present)_
 - **Organizer** - English Olympiad Bangladesh. _(2021)_
 - **Organizer** - Virtual Int’l Social Business Summer Program. _(2020)_
 - **Organizer** - 18th Asian University President’s Forum. _(2019)_
