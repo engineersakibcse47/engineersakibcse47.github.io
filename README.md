@@ -95,7 +95,16 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Uncovered key insights on educational product usage across demographics, resulting in 15% improved access to digital learning for underserved communities.
 - **Tech-Stack**: Numpy, Pandas, Matplotlib, altair, Plotly.
 
-#### **4. In Depth Analysis and Prediction Of US Traffic Accidents Data.**
+#### **4. Personalized Book Recommender System.**
+<div align="center">
+    <img alt="CV" width="100px" src="https://image.slidesharecdn.com/bookrecommendations-230615063942-3b1016c9/85/Book-Recommendations-pptx-1-320.jpg"/>
+</div>
+
+- Developed a book recommendation system using popularity-based filtering to identify top-rated books with over 1M ratings and collaborative filtering to provide personalized recommendations, enhancing user experience.
+- Designed and evaluated recommendation models both without train-test splits and with train-test splits, ensuring robustness and accuracy in real-world applications.
+- **Tech-Stack**: Pandas, Numpy, Scipy, Pandas, Matplotlib, NearestNeighbors, Cosine_similarity.
+
+#### **5. In-Depth Analysis and Prediction Of US Traffic Accidents Data.**
 <div align="center">
     <img alt="CV" width="100px" src="https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Verkehrsunfaelle/_config/Themenseite-Buehnenbild.jpg?__blob=normal"/>
 </div>
@@ -108,7 +117,7 @@ This research focuses on a voice-interactive AI system with object detection cap
     <h4><b><u>**Area of Time Series Analysis**</u></b></h4>
 </div>
 
-#### **5. Hourly Energy Consumption Time Series Analysis and Prediction.**
+#### **6. Hourly Energy Consumption Time Series Analysis and Prediction.**
 <div align="center">
     <img alt="CV" width="120px" src="https://miro.medium.com/v2/resize:fit:1400/1*dnGn6oY-N1H2GpzpepTHaQ.jpeg"/>
 </div>
@@ -116,11 +125,6 @@ This research focuses on a voice-interactive AI system with object detection cap
 - Developed advanced time series models, achieving an R2 score of 0.97 in predicting energy consumption, enabling informed decision-making in energy management. 
 - Enhanced model accuracy by 10% through optimized data preprocessing and validation techniques including outlier removal and scaling. 
 - **Tech-Stack**: Pandas, Numpy, Matplotlib, K-Fold, Facebook Prophet, LSTM, RNN. 
-
-#### **6. Teach Companies: Stock Market Time Series Analysis and Prediction.**
-- Coded and trained neural network models for stock market prediction, achieving an R2 score of 0.94 and reducing RMSE to 0.023 in predicting the closing prices of stocks like Apple, Google, Microsoft, and Amazon.
-- Applied EDA, data preprocessing techniques and time series analysis, including moving averages and correlation matrices, improving forecast accuracy by 15%.
-- **Tech-Stack**: Pandas, Numpy, Keras, GRU, Seaborn, Yahoo Finance API.
 
 <div align="center">
     <h4><b><u>**Area of Deep Learning**</u></b></h4>
